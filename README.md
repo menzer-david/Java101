@@ -1,10 +1,7 @@
 # Java 101 — SciGuides Practice Problems
 
 My solutions to the practice problems from the
-[SciGuides Java 101](https://sciborgs.github.io/SciGuides/) course.
-
-All practice problems are combined into a single [`Main.java`](Main.java),
-with each problem in its own method inside the `Main` class.
+[SciGuides Java 101](https://sciborgs.github.io/SciGuides/projects/intro-to-programming/Java101/) course.
 
 ## Running
 
